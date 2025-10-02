@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# OS / Editors
+.DS_Store
+*.log
+.vscode/
+.idea/
